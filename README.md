@@ -7,4 +7,4 @@
 - 💬 You can ask me about any topic
 - 📫 How to reach me: muhammad-karim@hotmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love cartoons 😂
+- ⚡ Fun fact: I love kids cartoons 😂
