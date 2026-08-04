@@ -1,10 +1,8 @@
 ### Hi there, I'm Muhammad Karim aka Amin 👋
 
-- 🔭 I’m currently working with microservices.
-- 🌱 I’m learning how to build MEAN stack apps.
-- 👯 I’m looking to collaborate on building a Maktab management app.
-- 🤔 I’m looking for help with how to plan & design my application.
+- 🔭 Software Engineer building secure, accessible web applications with TypeScript, Node.js and Angular.
+- ✨ Interested in clean architecture, automated testing, CI/CD and cloud deployment. 
+- 🌱 Currently developing 'Maktab Pro' a school management app using the MEAN stack.
 - 💬 You can ask me about any topic
 - 📫 How to reach me: mkarim.ne@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can live on eggs and rice
+- ⚡ Fun fact: I can live off eggs and rice
